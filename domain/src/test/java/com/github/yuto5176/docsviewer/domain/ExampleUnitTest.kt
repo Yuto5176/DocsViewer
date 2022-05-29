@@ -1,4 +1,4 @@
-package com.github.yuto5176.domain
+package com.github.yuto5176.docsviewer.domain
 
 import org.junit.Test
 

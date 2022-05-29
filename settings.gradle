@@ -14,6 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "DocsViewer"
 include ':app'
-include ':datasource'
-include ':domain'
+
 include ':ui'
+include ':domain'
+include ':datasource'

@@ -1,4 +1,4 @@
-package com.github.yuto5176.ui
+package com.github.yuto5176.docsviewer.datasource
 
 import org.junit.Test
 
